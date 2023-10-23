@@ -9,7 +9,7 @@ MySQL Workbench
 
 Configuration:
 Database:
-Install MySQL and MySQL client.
+Install MySQL.
 Create a MySQL database named "library."
 Config.ini:
 replace your_db_host, your_db_port, your_db_user, and your_db_password with your MySQL server details.
